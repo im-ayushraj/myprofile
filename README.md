@@ -22,13 +22,5 @@ Welcome to my GitHub profile! I am an aspiring developer with a keen interest in
 
 - **Email:** [me.ayushraj11@gmail.com](mailto:me.ayushraj11@gmail.com)
 - **LinkedIn:** [Ayush Raj](https://linkedin.com/in/ayush-raj11/)
-- **Twitter:** [@yourtwitterhandle](#)
 
-## 🌟 Projects
-
-### AI-based Projects
-- [Project Name](#): Description of the project.
-
-### Open Source Contributions
-- [Contribution Name](#): Description of the contribution.
 
